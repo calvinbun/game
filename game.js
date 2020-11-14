@@ -239,7 +239,7 @@ musicCon.addEventListener('click', () => {
 
 
 restartCON.addEventListener('click', () => {
-    window.location = 'index.html'
+    window.location = './index.html'
 })
 
 
